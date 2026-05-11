@@ -1,0 +1,15 @@
+body
+{
+    background-color: #3a7db4;
+}
+a {
+    display: inline-block;
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 8px;
+}
+a:hover {
+    background-color: darkblue;
+}

@@ -1,0 +1,25 @@
+body{
+    background-color: #3a7db4;
+}
+h3{
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+ul {
+    width: fit-content;
+    margin: 0 auto;
+}
+a {
+    display: inline-block;
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 8px;
+    border: 10px;
+}
+a:hover {
+    background-color: darkblue;
+}
